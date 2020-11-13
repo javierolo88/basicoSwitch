@@ -108,7 +108,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 .ap-prez-container[data-mode='1'] .ap-side-bar{
 	width: 320px;
 	color: rgb(230, 230, 230);
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	font-size: 14px;
 	background-color: rgb(0, 176, 80);
 }
@@ -116,7 +116,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 .ap-prez-container[data-mode='2'] .ap-side-bar{
 	width: 320px;
 	color: rgb(230, 230, 230);
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	font-size: 14px;
 	background-color: rgb(0, 176, 80);
 }
@@ -124,7 +124,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 .ap-prez-container[data-mode='3'] .ap-side-bar{
 	width: 320px;
 	color: rgb(230, 230, 230);
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	font-size: 14px;
 	background-color: rgb(0, 176, 80);
 }
@@ -132,7 +132,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 .ap-prez-container[data-mode='4'] .ap-side-bar{
 	width: 320px;
 	color: rgb(230, 230, 230);
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	font-size: 14px;
 	background-color: rgb(0, 176, 80);
 }
@@ -345,7 +345,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='1'] .ap-popup {
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	font-size: 14px;
 	color: rgb(0, 0, 0);
 	background-color: rgb(119, 111, 103);
@@ -353,7 +353,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='2'] .ap-popup {
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	font-size: 14px;
 	color: rgb(0, 0, 0);
 	background-color: rgb(119, 111, 103);
@@ -361,7 +361,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='3'] .ap-popup {
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	font-size: 14px;
 	color: rgb(0, 0, 0);
 	background-color: rgb(119, 111, 103);
@@ -369,7 +369,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='4'] .ap-popup {
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	font-size: 14px;
 	color: rgb(0, 0, 0);
 	background-color: rgb(119, 111, 103);
@@ -493,7 +493,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 
 .ap-prez-container[data-mode='1'] .ap-resources-container {
 	font-size: 14px;
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	background-color: rgb(0, 176, 240);
 	color: rgb(0, 0, 0);
 	border-color: rgb(20, 94, 168);
@@ -501,7 +501,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 
 .ap-prez-container[data-mode='2'] .ap-resources-container {
 	font-size: 14px;
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	background-color: rgb(0, 176, 240);
 	color: rgb(0, 0, 0);
 	border-color: rgb(20, 94, 168);
@@ -509,7 +509,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 
 .ap-prez-container[data-mode='3'] .ap-resources-container {
 	font-size: 14px;
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	background-color: rgb(0, 176, 240);
 	color: rgb(0, 0, 0);
 	border-color: rgb(20, 94, 168);
@@ -517,7 +517,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 
 .ap-prez-container[data-mode='4'] .ap-resources-container {
 	font-size: 14px;
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	background-color: rgb(0, 176, 240);
 	color: rgb(0, 0, 0);
 	border-color: rgb(20, 94, 168);
@@ -605,33 +605,33 @@ video::-webkit-media-controls { /* hide media controls by default */
 
 .ap-prez-container[data-mode='1'] .ap-toc-container {
 	font-size: 14px;
-	font-family: Tempus Sans ITC;
-	background-color: rgb(119, 111, 103);
-	color: rgb(0, 0, 0);
+	font-family: Arial Rounded MT Bold;
+	background-color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
 	border-color: rgb(20, 94, 168);
 }
 
 .ap-prez-container[data-mode='2'] .ap-toc-container {
 	font-size: 14px;
-	font-family: Tempus Sans ITC;
-	background-color: rgb(119, 111, 103);
-	color: rgb(0, 0, 0);
+	font-family: Arial Rounded MT Bold;
+	background-color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
 	border-color: rgb(20, 94, 168);
 }
 
 .ap-prez-container[data-mode='3'] .ap-toc-container {
 	font-size: 14px;
-	font-family: Tempus Sans ITC;
-	background-color: rgb(119, 111, 103);
-	color: rgb(0, 0, 0);
+	font-family: Arial Rounded MT Bold;
+	background-color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
 	border-color: rgb(20, 94, 168);
 }
 
 .ap-prez-container[data-mode='4'] .ap-toc-container {
 	font-size: 14px;
-	font-family: Tempus Sans ITC;
-	background-color: rgb(119, 111, 103);
-	color: rgb(0, 0, 0);
+	font-family: Arial Rounded MT Bold;
+	background-color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
 	border-color: rgb(20, 94, 168);
 }
 
@@ -648,19 +648,19 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 .ap-prez-container[data-mode='1'] .ap-toc-header {
 	border-bottom-color: rgb(119, 111, 103);
-	background-color: rgb(119, 111, 103);
+	background-color: rgb(0, 0, 0);
 }
 .ap-prez-container[data-mode='2'] .ap-toc-header {
 	border-bottom-color: rgb(119, 111, 103);
-	background-color: rgb(119, 111, 103);
+	background-color: rgb(0, 0, 0);
 }
 .ap-prez-container[data-mode='3'] .ap-toc-header {
 	border-bottom-color: rgb(119, 111, 103);
-	background-color: rgb(119, 111, 103);
+	background-color: rgb(0, 0, 0);
 }
 .ap-prez-container[data-mode='4'] .ap-toc-header {
 	border-bottom-color: rgb(119, 111, 103);
-	background-color: rgb(119, 111, 103);
+	background-color: rgb(0, 0, 0);
 }
 
 .ap-toc-header > .ap-toc-header-text {
@@ -876,22 +876,22 @@ video::-webkit-media-controls { /* hide media controls by default */
 
 .ap-prez-container[data-mode='1'] .ap-toc-entry .ap-toc-entry-icon svg *,
 .ap-prez-container[data-mode='1'] .ap-toc-entry .ap-toc-entry-status-icon svg * {
-	fill: rgb(0, 0, 0) !important;
+	fill: rgb(255, 255, 255) !important;
 }
 
 .ap-prez-container[data-mode='2'] .ap-toc-entry .ap-toc-entry-icon svg *,
 .ap-prez-container[data-mode='2'] .ap-toc-entry .ap-toc-entry-status-icon svg * {
-	fill: rgb(0, 0, 0) !important;
+	fill: rgb(255, 255, 255) !important;
 }
 
 .ap-prez-container[data-mode='3'] .ap-toc-entry .ap-toc-entry-icon svg *,
 .ap-prez-container[data-mode='3'] .ap-toc-entry .ap-toc-entry-status-icon svg * {
-	fill: rgb(0, 0, 0) !important;
+	fill: rgb(255, 255, 255) !important;
 }
 
 .ap-prez-container[data-mode='4'] .ap-toc-entry .ap-toc-entry-icon svg *,
 .ap-prez-container[data-mode='4'] .ap-toc-entry .ap-toc-entry-status-icon svg * {
-	fill: rgb(0, 0, 0) !important;
+	fill: rgb(255, 255, 255) !important;
 }
 
 .ap-toc-entry-duration {
@@ -1034,19 +1034,19 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='1'] .ap-button:hover svg * {
-	fill: rgb(255, 255, 255) !important;
+	fill: rgb(146, 208, 80) !important;
 }
 
 .ap-prez-container[data-mode='2'] .ap-button:hover svg * {
-	fill: rgb(255, 255, 255) !important;
+	fill: rgb(146, 208, 80) !important;
 }
 
 .ap-prez-container[data-mode='3'] .ap-button:hover svg * {
-	fill: rgb(255, 255, 255) !important;
+	fill: rgb(146, 208, 80) !important;
 }
 
 .ap-prez-container[data-mode='4'] .ap-button:hover svg * {
-	fill: rgb(255, 255, 255) !important;
+	fill: rgb(146, 208, 80) !important;
 }
 
 .ap-prez-container[data-mode='1'] .ap-button:active svg * {
@@ -1082,19 +1082,19 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='1'] .ap-button:hover .ap-button-label {
-	color: rgb(255, 255, 255) !important;
+	color: rgb(146, 208, 80) !important;
 }
 
 .ap-prez-container[data-mode='2'] .ap-button:hover .ap-button-label {
-	color: rgb(255, 255, 255) !important;
+	color: rgb(146, 208, 80) !important;
 }
 
 .ap-prez-container[data-mode='3'] .ap-button:hover .ap-button-label {
-	color: rgb(255, 255, 255) !important;
+	color: rgb(146, 208, 80) !important;
 }
 
 .ap-prez-container[data-mode='4'] .ap-button:hover .ap-button-label {
-	color: rgb(255, 255, 255) !important;
+	color: rgb(146, 208, 80) !important;
 }
 
 .ap-prez-container[data-mode='1'] .ap-button:active .ap-button-label {
@@ -1377,7 +1377,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 .ap-prez-container[data-mode='1'] .ap-toolbar,
 .ap-prez-container[data-mode='1'] .ap-slider-tooltip {
 	font-size: 14px;
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	color: rgb(0, 0, 0);
 	background-color: rgb(0, 176, 80);
 	border-color: rgb(20, 94, 168);
@@ -1386,7 +1386,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 .ap-prez-container[data-mode='2'] .ap-toolbar,
 .ap-prez-container[data-mode='2'] .ap-slider-tooltip {
 	font-size: 14px;
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	color: rgb(0, 0, 0);
 	background-color: rgb(0, 176, 80);
 	border-color: rgb(20, 94, 168);
@@ -1395,7 +1395,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 .ap-prez-container[data-mode='3'] .ap-toolbar,
 .ap-prez-container[data-mode='3'] .ap-slider-tooltip {
 	font-size: 14px;
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	color: rgb(0, 0, 0);
 	background-color: rgb(0, 176, 80);
 	border-color: rgb(20, 94, 168);
@@ -1404,7 +1404,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 .ap-prez-container[data-mode='4'] .ap-toolbar,
 .ap-prez-container[data-mode='4'] .ap-slider-tooltip {
 	font-size: 14px;
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	color: rgb(0, 0, 0);
 	background-color: rgb(0, 176, 80);
 	border-color: rgb(20, 94, 168);
@@ -1449,7 +1449,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='1'] .ap-menu {
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	font-size: 14px;
 	color: rgb(0, 0, 0);
 	background-color: rgb(119, 111, 103);
@@ -1457,7 +1457,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='2'] .ap-menu {
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	font-size: 14px;
 	color: rgb(0, 0, 0);
 	background-color: rgb(119, 111, 103);
@@ -1465,7 +1465,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='3'] .ap-menu {
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	font-size: 14px;
 	color: rgb(0, 0, 0);
 	background-color: rgb(119, 111, 103);
@@ -1473,7 +1473,7 @@ video::-webkit-media-controls { /* hide media controls by default */
 }
 
 .ap-prez-container[data-mode='4'] .ap-menu {
-	font-family: Tempus Sans ITC;
+	font-family: Arial Rounded MT Bold;
 	font-size: 14px;
 	color: rgb(0, 0, 0);
 	background-color: rgb(119, 111, 103);
